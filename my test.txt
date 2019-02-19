@@ -1,0 +1,91 @@
+
+User@unknownDeviceWS MINGW64 ~
+$ pwd
+/c/Users/User
+
+User@unknownDeviceWS MINGW64 ~
+$ cd e:/
+
+User@unknownDeviceWS MINGW64 /e
+$ cd Java:/
+bash: cd: Java:/: No such file or directory
+
+User@unknownDeviceWS MINGW64 /e
+$ cd Java/
+
+User@unknownDeviceWS MINGW64 /e/Java
+$ ls
+ 113Exercise/          'Access modifier KSHRD'/  'JAVA CODE'/
+ 311MethodExersice/     ClassObj/                'New Text Document.txt'
+ 411ClassObjExercise/   HelloWorld/
+
+User@unknownDeviceWS MINGW64 /e/Java
+$ cd JAVA CODE/
+bash: cd: too many arguments
+
+User@unknownDeviceWS MINGW64 /e/Java
+$ cd HelloWord
+bash: cd: HelloWord: No such file or directory
+
+User@unknownDeviceWS MINGW64 /e/Java
+$ cd HelloWorld/
+
+User@unknownDeviceWS MINGW64 /e/Java/HelloWorld
+$ mkdir theGit
+
+User@unknownDeviceWS MINGW64 /e/Java/HelloWorld
+$ cd theGid
+bash: cd: theGid: No such file or directory
+
+User@unknownDeviceWS MINGW64 /e/Java/HelloWorld
+$ cd theGit
+
+User@unknownDeviceWS MINGW64 /e/Java/HelloWorld/theGit
+$ touch texttesting.txt
+
+User@unknownDeviceWS MINGW64 /e/Java/HelloWorld/theGit
+$ cd..
+bash: cd..: command not found
+
+User@unknownDeviceWS MINGW64 /e/Java/HelloWorld/theGit
+$ cd--
+bash: cd--: command not found
+
+User@unknownDeviceWS MINGW64 /e/Java/HelloWorld/theGit
+$ cd-
+bash: cd-: command not found
+
+User@unknownDeviceWS MINGW64 /e/Java/HelloWorld/theGit
+$ cd.
+bash: cd.: command not found
+
+User@unknownDeviceWS MINGW64 /e/Java/HelloWorld/theGit
+$ git init
+Initialized empty Git repository in E:/Java/HelloWorld/theGit/.git/
+
+User@unknownDeviceWS MINGW64 /e/Java/HelloWorld/theGit (master)
+$ ll -al
+total 4
+drwxr-xr-x 1 User 197121 0 Nov  4 10:56 ./
+drwxr-xr-x 1 User 197121 0 Nov  4 10:55 ../
+drwxr-xr-x 1 User 197121 0 Nov  4 10:56 .git/
+-rw-r--r-- 1 User 197121 0 Nov  4 10:56 texttesting.txt
+
+User@unknownDeviceWS MINGW64 /e/Java/HelloWorld/theGit (master)
+$ git add .
+
+User@unknownDeviceWS MINGW64 /e/Java/HelloWorld/theGit (master)
+$ git commit -m "Add texttesting.txt"
+[master (root-commit) c23871f] Add texttesting.txt
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 texttesting.txt
+
+User@unknownDeviceWS MINGW64 /e/Java/HelloWorld/theGit (master)
+$ git status
+On branch master
+nothing to commit, working tree clean
+
+User@unknownDeviceWS MINGW64 /e/Java/HelloWorld/theGit (master)
+$
+
+ZTE F660

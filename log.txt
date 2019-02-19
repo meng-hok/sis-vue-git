@@ -1,0 +1,61 @@
+
+User@unknownDeviceWS MINGW64 ~
+$ cd C:/wa
+bash: cd: C:/wa: No such file or directory
+
+User@unknownDeviceWS MINGW64 ~
+$ cd C:
+
+User@unknownDeviceWS MINGW64 /c
+$ cd wamp64/
+
+User@unknownDeviceWS MINGW64 /c/wamp64
+$ ls
+alias/        bin/           images_off.bmp  instructions_for_use.pdf  lang/        mariadb_support.txt  tmp/           uninstall_services.bat  wampmanager.ini
+apps/         cgi-bin/       images_on.bmp   instructions_for_use.rtf  licence.txt  quit_wampserver.bat  unins000.dat   wampmanager.conf        wampmanager.tpl
+barimage.bmp  changelog.txt  install.txt     instructions_for_use.txt  logs/        scripts/             unins000.exe*  wampmanager.exe*        www/
+c
+User@unknownDeviceWS MINGW64 /c/wamp64
+$ cd www/
+l
+User@unknownDeviceWS MINGW64 /c/wamp64/www
+$ ls
+add_vhost.php  favicon.ico  firstphp/  index.php  test_sockets.php  testGit/  testing/  testmysql.php  wamplangues/  wampthemes/  www.sokmenghokkkkkk.com/
+
+User@unknownDeviceWS MINGW64 /c/wamp64/www
+$ ll
+total 280
+-rw-r--r-- 1 User 197121  22261 Mar 20  2018 add_vhost.php
+-rw-r--r-- 1 User 197121 202575 Dec 31  2010 favicon.ico
+drwxr-xr-x 1 User 197121      0 Nov  2 13:17 firstphp/
+-rw-r--r-- 1 User 197121  32406 Nov  2 12:45 index.php
+-rw-r--r-- 1 User 197121    742 Sep 21  2015 test_sockets.php
+drwxr-xr-x 1 User 197121      0 Nov  3 11:46 testGit/
+drwxr-xr-x 1 User 197121      0 Nov  2 13:10 testing/
+-rw-r--r-- 1 User 197121    763 Dec 13  2016 testmysql.php
+drwxr-xr-x 1 User 197121      0 Nov  2 09:37 wamplangues/
+drwxr-xr-x 1 User 197121      0 Nov  2 09:37 wampthemes/
+drwxr-xr-x 1 User 197121      0 Nov  2 12:20 www.sokmenghokkkkkk.com/
+
+User@unknownDeviceWS MINGW64 /c/wamp64/www
+$ cd testGit/
+
+User@unknownDeviceWS MINGW64 /c/wamp64/www/testGit (master)
+$ git remote show
+origin
+
+User@unknownDeviceWS MINGW64 /c/wamp64/www/testGit (master)
+$ git remote show origin
+remote: HTTP Basic: Access denied
+fatal: Authentication failed for 'https://gitlab.com/meng_hokkkkkkk/testgit.git/'
+
+User@unknownDeviceWS MINGW64 /c/wamp64/www/testGit (master)
+$ git config --system --unset credential.helper
+error: could not lock config file C:/Program Files/Git/mingw64/etc/gitconfig: Permission denied
+
+User@unknownDeviceWS MINGW64 /c/wamp64/www/testGit (master)
+$ sudo git config --system --unset credential.helper
+bash: sudo: command not found
+
+User@unknownDeviceWS MINGW64 /c/wamp64/www/testGit (master)
+$

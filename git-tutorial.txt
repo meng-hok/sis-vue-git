@@ -1,0 +1,739 @@
+
+User@unknownDeviceWS MINGW64 ~
+$ ls
+ AppData/             Downloads/                 Music/            NTUSER.DAT{b794f0d8-4b5d-11e6-80e4-e41d2d719790}.TM.blf                                        PrintHood@      Templates@
+'Application Data'@   Favorites/                'My Documents'@    NTUSER.DAT{b794f0d8-4b5d-11e6-80e4-e41d2d719790}.TMContainer00000000000000000001.regtrans-ms   Recent@         Videos/
+ Contacts/            IntelGraphicsProfiles/     NetHood@          NTUSER.DAT{b794f0d8-4b5d-11e6-80e4-e41d2d719790}.TMContainer00000000000000000002.regtrans-ms  'Saved Games'/
+ Cookies@            'IntelliJ IDEA 2018.1.2'/   NTUSER.DAT        ntuser.ini                                                                                     Searches/
+ Desktop/             Links/                     ntuser.dat.LOG1   OneDrive/                                                                                      SendTo@
+ Documents/          'Local Settings'@           ntuser.dat.LOG2   Pictures/                                                                                     'Start Menu'@
+
+User@unknownDeviceWS MINGW64 ~
+$ cd E:
+
+User@unknownDeviceWS MINGW64 /e
+$ ls
+'$RECYCLE.BIN'/   HTML/   Java/   software/  'System Volume Information'/  'Video Tur'/  'wampserver 3.1.3.exe'*   we/   Xampp/
+
+User@unknownDeviceWS MINGW64 /e
+$ cd Xampp/
+
+User@unknownDeviceWS MINGW64 /e/Xampp
+$ ls
+anonymous/            catalina_start.bat  filezilla_setup.bat  img/         mailtodisk/        mysql_start.bat  phpMyAdmin/     sendmail/        tmp/            webdav/             xampp-control.ini
+apache/               catalina_stop.bat   filezilla_start.bat  install/     mercury_start.bat  mysql_stop.bat   properties.ini  service.exe*     tomcat/         xampp_shell.bat     xampp-control.log
+apache_start.bat      cgi-bin/            filezilla_stop.bat   licenses/    mercury_stop.bat   passwords.txt    readme_de.txt   setup_xampp.bat  uninstall.dat   xampp_start.exe*
+apache_stop.bat       contrib/            FileZillaFTP/        locale/      MercuryMail/       perl/            readme_en.txt   src/             uninstall.exe*  xampp_stop.exe*
+catalina_service.bat  ctlscript.bat       htdocs/              mailoutput/  mysql/             php/             RELEASENOTES    test_php.bat     webalizer/      xampp-control.exe*
+
+User@unknownDeviceWS MINGW64 /e/Xampp
+$ cd
+
+User@unknownDeviceWS MINGW64 ~
+$ cd C:
+
+User@unknownDeviceWS MINGW64 /c
+$ cd wamp64/
+
+User@unknownDeviceWS MINGW64 /c/wamp64
+$ ls
+alias/        bin/           images_off.bmp  instructions_for_use.pdf  lang/        mariadb_support.txt  tmp/           uninstall_services.bat  wampmanager.ini
+apps/         cgi-bin/       images_on.bmp   instructions_for_use.rtf  licence.txt  quit_wampserver.bat  unins000.dat   wampmanager.conf        wampmanager.tpl
+barimage.bmp  changelog.txt  install.txt     instructions_for_use.txt  logs/        scripts/             unins000.exe*  wampmanager.exe*        www/
+
+User@unknownDeviceWS MINGW64 /c/wamp64
+$ cd www/
+
+User@unknownDeviceWS MINGW64 /c/wamp64/www
+$ ls
+add_vhost.php  favicon.ico  firstphp/  index.php  test_sockets.php  testing/  testmysql.php  wamplangues/  wampthemes/  www.sokmenghokkkkkk.com/
+
+User@unknownDeviceWS MINGW64 /c/wamp64/www
+$ ls
+add_vhost.php  favicon.ico  firstphp/  index.php  test_sockets.php  testing/  testmysql.php  wamplangues/  wampthemes/  www.sokmenghokkkkkk.com/
+
+User@unknownDeviceWS MINGW64 /c/wamp64/www
+$ cd test
+bash: cd: test: No such file or directory
+
+User@unknownDeviceWS MINGW64 /c/wamp64/www
+$ cd testing
+
+User@unknownDeviceWS MINGW64 /c/wamp64/www/testing
+$ ls
+ll
+index.php    readme.html  testing.txt      wp-admin/           wp-comments-post.php  wp-config-sample.php  wp-cron.php   wp-links-opml.php  wp-login.php  wp-settings.php  wp-trackback.php
+license.txt  testing.php  wp-activate.php  wp-blog-header.php  wp-config.php         wp-content/           wp-includes/  wp-load.php        wp-mail.php   wp-signup.php    xmlrpc.php
+
+User@unknownDeviceWS MINGW64 /c/wamp64/www/testing
+$ ll
+total 255
+-rw-r--r-- 1 User 197121   418 Sep 25  2013 index.php
+-rw-r--r-- 1 User 197121 19935 Jan 23  2018 license.txt
+-rw-r--r-- 1 User 197121  7338 Nov  1  2017 readme.html
+-rw-r--r-- 1 User 197121    22 Nov  2 12:35 testing.php
+-rw-r--r-- 1 User 197121     0 Nov  2 12:35 testing.txt
+-rw-r--r-- 1 User 197121  5032 Jan 28  2016 wp-activate.php
+drwxr-xr-x 1 User 197121     0 Nov  2 10:46 wp-admin/
+-rw-r--r-- 1 User 197121   364 Dec 19  2015 wp-blog-header.php
+-rw-r--r-- 1 User 197121  1476 Jan 31  2016 wp-comments-post.php
+-rw-r--r-- 1 User 197121  2820 Nov  2 10:49 wp-config.php
+-rw-r--r-- 1 User 197121  2853 Dec 16  2015 wp-config-sample.php
+drwxr-xr-x 1 User 197121     0 Nov  2 12:45 wp-content/
+-rw-r--r-- 1 User 197121  3286 May 25  2015 wp-cron.php
+drwxr-xr-x 1 User 197121     0 Nov  2 10:46 wp-includes/
+-rw-r--r-- 1 User 197121  2380 Oct 25  2013 wp-links-opml.php
+-rw-r--r-- 1 User 197121  3316 Nov  6  2015 wp-load.php
+-rw-r--r-- 1 User 197121 33852 Apr  3  2018 wp-login.php
+-rw-r--r-- 1 User 197121  8094 Jan 11  2017 wp-mail.php
+-rw-r--r-- 1 User 197121 13106 Feb 18  2016 wp-settings.php
+-rw-r--r-- 1 User 197121 28624 Jan 28  2016 wp-signup.php
+-rw-r--r-- 1 User 197121  4035 Dec  1  2014 wp-trackback.php
+-rw-r--r-- 1 User 197121  3061 Oct  3  2015 xmlrpc.php
+
+User@unknownDeviceWS MINGW64 /c/wamp64/www/testing
+$ cd ..
+
+User@unknownDeviceWS MINGW64 /c/wamp64/www
+$ ls
+add_vhost.php  favicon.ico  firstphp/  index.php  test_sockets.php  testing/  testmysql.php  wamplangues/  wampthemes/  www.sokmenghokkkkkk.com/
+
+User@unknownDeviceWS MINGW64 /c/wamp64/www
+$ mkdir testGit
+
+User@unknownDeviceWS MINGW64 /c/wamp64/www
+$ cd testGit/
+
+User@unknownDeviceWS MINGW64 /c/wamp64/www/testGit
+$ ls
+
+User@unknownDeviceWS MINGW64 /c/wamp64/www/testGit
+$ ll
+total 0
+
+User@unknownDeviceWS MINGW64 /c/wamp64/www/testGit
+$ touch test.txt
+
+User@unknownDeviceWS MINGW64 /c/wamp64/www/testGit
+$ vi test.txt
+
+User@unknownDeviceWS MINGW64 /c/wamp64/www/testGit
+$ ll
+total 1
+-rw-r--r-- 1 User 197121 18 Nov  3 11:45 test.txt
+
+User@unknownDeviceWS MINGW64 /c/wamp64/www/testGit
+$ git status
+fatal: not a git repository (or any of the parent directories): .git
+
+User@unknownDeviceWS MINGW64 /c/wamp64/www/testGit
+$ git init
+Initialized empty Git repository in C:/wamp64/www/testGit/.git/
+
+User@unknownDeviceWS MINGW64 /c/wamp64/www/testGit (master)
+$ lll
+bash: lll: command not found
+
+User@unknownDeviceWS MINGW64 /c/wamp64/www/testGit (master)
+$ ll
+total 1
+-rw-r--r-- 1 User 197121 18 Nov  3 11:45 test.txt
+
+User@unknownDeviceWS MINGW64 /c/wamp64/www/testGit (master)
+$ ll -al
+total 9
+drwxr-xr-x 1 User 197121  0 Nov  3 11:46 ./
+drwxr-xr-x 1 User 197121  0 Nov  3 11:45 ../
+drwxr-xr-x 1 User 197121  0 Nov  3 11:46 .git/
+-rw-r--r-- 1 User 197121 18 Nov  3 11:45 test.txt
+
+User@unknownDeviceWS MINGW64 /c/wamp64/www/testGit (master)
+$ git stauts
+git: 'stauts' is not a git command. See 'git --help'.
+
+The most similar command is
+        status
+
+User@unknownDeviceWS MINGW64 /c/wamp64/www/testGit (master)
+$ git status
+On branch master
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+        test.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+User@unknownDeviceWS MINGW64 /c/wamp64/www/testGit (master)
+$
+g
+User@unknownDeviceWS MINGW64 /c/wamp64/www/testGit (master)
+$ git status
+On branch master
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+        test.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+User@unknownDeviceWS MINGW64 /c/wamp64/www/testGit (master)
+$ cd .
+
+User@unknownDeviceWS MINGW64 /c/wamp64/www/testGit (master)
+$ cd ..
+
+User@unknownDeviceWS MINGW64 /c/wamp64/www
+$ cd testGit/
+
+User@unknownDeviceWS MINGW64 /c/wamp64/www/testGit (master)
+$ tree .
+bash: tree: command not found
+
+User@unknownDeviceWS MINGW64 /c/wamp64/www/testGit (master)
+$ ll
+total 1
+-rw-r--r-- 1 User 197121 18 Nov  3 11:45 test.txt
+
+User@unknownDeviceWS MINGW64 /c/wamp64/www/testGit (master)
+$ pwd
+/c/wamp64/www/testGit
+
+User@unknownDeviceWS MINGW64 /c/wamp64/www/testGit (master)
+$ ll
+total 1
+-rw-r--r-- 1 User 197121 18 Nov  3 11:45 test.txt
+
+User@unknownDeviceWS MINGW64 /c/wamp64/www/testGit (master)
+$ ll -al
+total 9
+drwxr-xr-x 1 User 197121  0 Nov  3 11:46 ./
+drwxr-xr-x 1 User 197121  0 Nov  3 11:45 ../
+drwxr-xr-x 1 User 197121  0 Nov  3 11:59 .git/
+-rw-r--r-- 1 User 197121 18 Nov  3 11:45 test.txt
+
+User@unknownDeviceWS MINGW64 /c/wamp64/www/testGit (master)
+$ git status
+On branch master
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+        test.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+User@unknownDeviceWS MINGW64 /c/wamp64/www/testGit (master)
+$ git log
+fatal: your current branch 'master' does not have any commits yet
+
+User@unknownDeviceWS MINGW64 /c/wamp64/www/testGit (master)
+$ git add .
+warning: LF will be replaced by CRLF in test.txt.
+The file will have its original line endings in your working directory
+
+User@unknownDeviceWS MINGW64 /c/wamp64/www/testGit (master)
+$ git staus
+git: 'staus' is not a git command. See 'git --help'.
+
+The most similar command is
+        status
+
+User@unknownDeviceWS MINGW64 /c/wamp64/www/testGit (master)
+$ git statsus
+git: 'statsus' is not a git command. See 'git --help'.
+
+The most similar command is
+        status
+
+User@unknownDeviceWS MINGW64 /c/wamp64/www/testGit (master)
+$ git status
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+
+        new file:   test.txt
+
+
+User@unknownDeviceWS MINGW64 /c/wamp64/www/testGit (master)
+$ git commit -m "Add test.txt file"
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'User@unknownDeviceWS.(none)')
+
+User@unknownDeviceWS MINGW64 /c/wamp64/www/testGit (master)
+$ ^C
+
+User@unknownDeviceWS MINGW64 /c/wamp64/www/testGit (master)
+$ git config --global user.email "sok.menghok1@gmail.com"
+
+User@unknownDeviceWS MINGW64 /c/wamp64/www/testGit (master)
+$ git config --global user.name "Menghok
+> "
+
+User@unknownDeviceWS MINGW64 /c/wamp64/www/testGit (master)
+$ git stauts
+git: 'stauts' is not a git command. See 'git --help'.
+
+The most similar command is
+        status
+
+User@unknownDeviceWS MINGW64 /c/wamp64/www/testGit (master)
+$ git status
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+
+        new file:   test.txt
+
+
+User@unknownDeviceWS MINGW64 /c/wamp64/www/testGit (master)
+$ git commit -m "Add test.txt file"
+[master (root-commit) de33f44] Add test.txt file
+ 1 file changed, 1 insertion(+)
+ create mode 100644 test.txt
+
+User@unknownDeviceWS MINGW64 /c/wamp64/www/testGit (master)
+$ git log
+commit de33f44473b974d609e79c1b1223bf81da470c7f (HEAD -> master)
+Author: Menghok <sok.menghok1@gmail.com>
+Date:   Sat Nov 3 12:08:01 2018 +0700
+
+    Add test.txt file
+
+User@unknownDeviceWS MINGW64 /c/wamp64/www/testGit (master)
+$ git status
+On branch master
+nothing to commit, working tree clean
+
+User@unknownDeviceWS MINGW64 /c/wamp64/www/testGit (master)
+$ git remote show
+
+User@unknownDeviceWS MINGW64 /c/wamp64/www/testGit (master)
+$ git remote show
+
+========================================11/22/18================================================================================
+
+User@unknownDeviceWS MINGW64 ~
+$ ssh-keygen -t rsa -b 4096 -C "sok.menghok1@gmail.com"
+Generating public/private rsa key pair.
+Enter file in which to save the key (/c/Users/User/.ssh/id_rsa):
+Created directory '/c/Users/User/.ssh'.
+Enter passphrase (empty for no passphrase):
+Enter same passphrase again:
+Your identification has been saved in /c/Users/User/.ssh/id_rsa.
+Your public key has been saved in /c/Users/User/.ssh/id_rsa.pub.
+The key fingerprint is:
+SHA256:JJdYu+kxsPwn0i5aJ9m9QFL1W1JdpoSQGYm6OWtHxqA sok.menghok1@gmail.com
+The key's randomart image is:
++---[RSA 4096]----+
+|        ..+* .o.+|
+|       o.++..o o.|
+|      +.*   o o  |
+|     .oB o   +   |
+|     .+=S   .    |
+|    E +O++       |
+|      ==O o      |
+|     .+=.+ .     |
+|    .o o. .      |
++----[SHA256]-----+
+
+User@unknownDeviceWS MINGW64 ~
+$ ls
+'3D Objects'/         Documents/                'Local Settings'@        ntuser.dat.LOG1                                                                                OneDrive/       SendTo@
+ AppData/             Downloads/                 MicrosoftEdgeBackups/   ntuser.dat.LOG2                                                                                Pictures/      'Start Menu'@
+'Application Data'@   Favorites/                 Music/                  NTUSER.DAT{8ebe95f7-3dcb-11e8-a9d9-7cfe90913f50}.TM.blf                                        PrintHood@      Templates@
+ Contacts/            IntelGraphicsProfiles/    'My Documents'@          NTUSER.DAT{8ebe95f7-3dcb-11e8-a9d9-7cfe90913f50}.TMContainer00000000000000000001.regtrans-ms   Recent@         Videos/
+ Cookies@            'IntelliJ IDEA 2018.1.2'/   NetHood@                NTUSER.DAT{8ebe95f7-3dcb-11e8-a9d9-7cfe90913f50}.TMContainer00000000000000000002.regtrans-ms  'Saved Games'/
+ Desktop/             Links/                     NTUSER.DAT              ntuser.ini                                                                                     Searches/
+
+User@unknownDeviceWS MINGW64 ~
+$ ll -a
+total 5410
+drwxr-xr-x 1 User 197121       0 Nov 22 13:48  ./
+drwxr-xr-x 1 User 197121       0 Nov  8 16:51  ../
+drwxr-xr-x 1 User 197121       0 Nov  1 20:22  .android/
+-rw-r--r-- 1 User 197121    8682 Nov 20 14:29  .bash_history
+drwxr-xr-x 1 User 197121       0 Nov  4 11:18  .DataGrip2018.2/
+-rw-r--r-- 1 User 197121      57 Nov  3 12:38  .gitconfig
+drwxr-xr-x 1 User 197121       0 Nov  1 19:39  .IntelliJIdea2018.1/
+drwxr-xr-x 1 User 197121       0 Nov  8 12:16  .m2/
+drwxr-xr-x 1 User 197121       0 Nov 22 13:49  .ssh/
+-rw-r--r-- 1 User 197121   12324 Nov 22 13:36  .viminfo
+drwxr-xr-x 1 User 197121       0 Nov 11 14:17  .vscode/
+drwxr-xr-x 1 User 197121       0 Nov 21 09:35 '3D Objects'/
+drwxr-xr-x 1 User 197121       0 Nov  8 16:51  AppData/
+lrwxrwxrwx 1 User 197121      29 Nov  8 16:51 'Application Data' -> /c/Users/User/AppData/Roaming/
+drwxr-xr-x 1 User 197121       0 Nov 21 09:35  Contacts/
+lrwxrwxrwx 1 User 197121      57 Nov  8 16:51  Cookies -> /c/Users/User/AppData/Local/Microsoft/Windows/INetCookies/
+drwxr-xr-x 1 User 197121       0 Nov 21 09:35  Desktop/
+drwxr-xr-x 1 User 197121       0 Nov 21 09:35  Documents/
+drwxr-xr-x 1 User 197121       0 Nov 21 09:35  Downloads/
+drwxr-xr-x 1 User 197121       0 Nov 21 09:35  Favorites/
+drwxr-xr-x 1 User 197121       0 Nov 22 10:02  IntelGraphicsProfiles/
+drwxr-xr-x 1 User 197121       0 Nov  1 19:39 'IntelliJ IDEA 2018.1.2'/
+drwxr-xr-x 1 User 197121       0 Nov 21 09:35  Links/
+lrwxrwxrwx 1 User 197121      27 Nov  8 16:51 'Local Settings' -> /c/Users/User/AppData/Local/
+drwxr-xr-x 1 User 197121       0 Nov  8 16:56  MicrosoftEdgeBackups/
+drwxr-xr-x 1 User 197121       0 Nov 21 09:35  Music/
+lrwxrwxrwx 1 User 197121      23 Nov  8 16:51 'My Documents' -> /c/Users/User/Documents/
+lrwxrwxrwx 1 User 197121      65 Nov  8 16:51  NetHood -> '/c/Users/User/AppData/Roaming/Microsoft/Windows/Network Shortcuts'/
+-rw-r--r-- 1 User 197121 3145728 Nov 21 22:59  NTUSER.DAT
+-rw-r--r-- 1 User 197121  327680 Nov  8 16:51  ntuser.dat.LOG1
+-rw-r--r-- 1 User 197121  868352 Nov  8 16:51  ntuser.dat.LOG2
+-rw-r--r-- 1 User 197121   65536 Nov  8 16:51  NTUSER.DAT{8ebe95f7-3dcb-11e8-a9d9-7cfe90913f50}.TM.blf
+-rw-r--r-- 1 User 197121  524288 Nov  8 16:51  NTUSER.DAT{8ebe95f7-3dcb-11e8-a9d9-7cfe90913f50}.TMContainer00000000000000000001.regtrans-ms
+-rw-r--r-- 1 User 197121  524288 Nov  8 16:51  NTUSER.DAT{8ebe95f7-3dcb-11e8-a9d9-7cfe90913f50}.TMContainer00000000000000000002.regtrans-ms
+-rw-r--r-- 1 User 197121      20 Nov  8 16:55  ntuser.ini
+drwxr-xr-x 1 User 197121       0 Nov  8 16:59  OneDrive/
+drwxr-xr-x 1 User 197121       0 Nov 21 09:35  Pictures/
+lrwxrwxrwx 1 User 197121      65 Nov  8 16:51  PrintHood -> '/c/Users/User/AppData/Roaming/Microsoft/Windows/Printer Shortcuts'/
+lrwxrwxrwx 1 User 197121      54 Nov  8 16:51  Recent -> /c/Users/User/AppData/Roaming/Microsoft/Windows/Recent/
+drwxr-xr-x 1 User 197121       0 Nov 21 09:35 'Saved Games'/
+drwxr-xr-x 1 User 197121       0 Nov 21 09:35  Searches/
+lrwxrwxrwx 1 User 197121      54 Nov  8 16:51  SendTo -> /c/Users/User/AppData/Roaming/Microsoft/Windows/SendTo/
+lrwxrwxrwx 1 User 197121      58 Nov  8 16:51 'Start Menu' -> '/c/Users/User/AppData/Roaming/Microsoft/Windows/Start Menu'/
+lrwxrwxrwx 1 User 197121      57 Nov  8 16:51  Templates -> /c/Users/User/AppData/Roaming/Microsoft/Windows/Templates/
+drwxr-xr-x 1 User 197121       0 Nov 21 09:35  Videos/
+
+User@unknownDeviceWS MINGW64 ~
+$ cd .ssh/
+
+User@unknownDeviceWS MINGW64 ~/.ssh
+$ ls
+id_rsa  id_rsa.pub
+
+User@unknownDeviceWS MINGW64 ~/.ssh
+$ ll
+total 8
+-rw-r--r-- 1 User 197121 3326 Nov 22 13:49 id_rsa
+-rw-r--r-- 1 User 197121  748 Nov 22 13:49 id_rsa.pub
+
+User@unknownDeviceWS MINGW64 ~/.ssh
+$ cat id_rsa.pub
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQC4tSq7MixH3oOU7JAyUCBiA7AQEeW9bCsPKfQ0kRUKUeAXyDVcHu1QBWrwObzavQgqmw/ZUg2W9JkgJq0nXSeA+duTrOkwoMzI0nv0rAb0aWl/Brm3u3vzgrE+gO1W2+noyyR0XDJpExunTiQOAufeird2NWTKgVIod5JvGMIDmD3OAkT3V1IkbAsrFQpupRhkzdk9CQgIUZl7wB7MS50nn8RW89GT+rLYLm1AG6ApQsnVbY0VBzBDL85+b7afStCyioMAYQKD7LxVYiIItmKBd+g3FoQiU3EU332D9qPcxz6of4u7EeWSsM4LljkUgGhOOjeAudeOXH6BM01UrkM9Mn68P8pRubUhva6MtiYS2Ptu8Jie1M4IrKQVQK6l5XaN2fzh3+Y3iQi55Rvbxu5OZ7GAt7bO9A7e5kVM3MqYwxFd4fiOAuz3Z41LHRSr4fM7AR+5xQZdIIEg4RNi6d5gx/664mcIXfl/2LF6O4MSlg62ris3VtYh+hNHcrj495ZzT8o6XR7uT6qKuF64AhPigt8OFZsdsjaAEG9yJ94zvy1/Xun/ewy99PMd1bbHG7t26d35nMet4p2p6XwmpYyWshq/r1Nlov1mAAlsdOOVFGyfr08UPPFI7ch7iE/YDEKwEaWH7PLpQ1b4mLl3ussuOc0jtEJ9/YOiKMZI3OM3Qw== sok.menghok1@gmail.com
+
+User@unknownDeviceWS MINGW64 ~/.ssh
+$ cd
+
+User@unknownDeviceWS MINGW64 ~
+$ reste
+bash: reste: command not found
+
+User@unknownDeviceWS MINGW64 ~
+$ ls
+'3D Objects'/         Documents/                'Local Settings'@        ntuser.dat.LOG1                                                                                OneDrive/       SendTo@
+ AppData/             Downloads/                 MicrosoftEdgeBackups/   ntuser.dat.LOG2                                                                                Pictures/      'Start Menu'@
+'Application Data'@   Favorites/                 Music/                  NTUSER.DAT{8ebe95f7-3dcb-11e8-a9d9-7cfe90913f50}.TM.blf                                        PrintHood@      Templates@
+ Contacts/            IntelGraphicsProfiles/    'My Documents'@          NTUSER.DAT{8ebe95f7-3dcb-11e8-a9d9-7cfe90913f50}.TMContainer00000000000000000001.regtrans-ms   Recent@         Videos/
+ Cookies@            'IntelliJ IDEA 2018.1.2'/   NetHood@                NTUSER.DAT{8ebe95f7-3dcb-11e8-a9d9-7cfe90913f50}.TMContainer00000000000000000002.regtrans-ms  'Saved Games'/
+ Desktop/             Links/                     NTUSER.DAT              ntuser.ini                                                                                     Searches/
+
+User@unknownDeviceWS MINGW64 ~
+$ cd Por
+bash: cd: Por: No such file or directory
+
+User@unknownDeviceWS MINGW64 ~
+$ cd e/
+bash: cd: e/: No such file or directory
+
+User@unknownDeviceWS MINGW64 ~
+$ ls
+'3D Objects'/         Documents/                'Local Settings'@        ntuser.dat.LOG1                                                                                OneDrive/       SendTo@
+ AppData/             Downloads/                 MicrosoftEdgeBackups/   ntuser.dat.LOG2                                                                                Pictures/      'Start Menu'@
+'Application Data'@   Favorites/                 Music/                  NTUSER.DAT{8ebe95f7-3dcb-11e8-a9d9-7cfe90913f50}.TM.blf                                        PrintHood@      Templates@
+ Contacts/            IntelGraphicsProfiles/    'My Documents'@          NTUSER.DAT{8ebe95f7-3dcb-11e8-a9d9-7cfe90913f50}.TMContainer00000000000000000001.regtrans-ms   Recent@         Videos/
+ Cookies@            'IntelliJ IDEA 2018.1.2'/   NetHood@                NTUSER.DAT{8ebe95f7-3dcb-11e8-a9d9-7cfe90913f50}.TMContainer00000000000000000002.regtrans-ms  'Saved Games'/
+ Desktop/             Links/                     NTUSER.DAT              ntuser.ini                                                                                     Searches/
+
+User@unknownDeviceWS MINGW64 ~
+$ cd E:
+
+User@unknownDeviceWS MINGW64 /e
+$ cd Java/
+
+User@unknownDeviceWS MINGW64 /e/Java
+$ ls
+ 1.HelloWorld/  '2.JAVA CODE'/  '3.Access modifier KSHRD'/   4.OOP/   Assignment/   collection/   Excerise/   ForTesting/  'New Text Document.txt'
+
+User@unknownDeviceWS MINGW64 /e/Java
+$ ll
+total 5
+drwxr-xr-x 1 User 197121  0 Nov  4 10:55  1.HelloWorld/
+drwxr-xr-x 1 User 197121  0 Nov  3 09:41 '2.JAVA CODE'/
+drwxr-xr-x 1 User 197121  0 Nov  3 09:02 '3.Access modifier KSHRD'/
+drwxr-xr-x 1 User 197121  0 Nov 19 22:59  4.OOP/
+drwxr-xr-x 1 User 197121  0 Nov 20 14:12  Assignment/
+drwxr-xr-x 1 User 197121  0 Nov 16 14:30  collection/
+drwxr-xr-x 1 User 197121  0 Nov 18 09:23  Excerise/
+drwxr-xr-x 1 User 197121  0 Nov 10 17:27  ForTesting/
+-rw-r--r-- 1 User 197121 70 Nov  4 22:53 'New Text Document.txt'
+
+User@unknownDeviceWS MINGW64 /e/Java
+$ cd Excerise/
+
+User@unknownDeviceWS MINGW64 /e/Java/Excerise
+$ ls
+181118/  3.1111InheritanceEx/  311MethodExersice/  411ClassObjExercise/
+
+User@unknownDeviceWS MINGW64 /e/Java/Excerise
+$ ll
+total 0
+drwxr-xr-x 1 User 197121 0 Nov 18 09:24 181118/
+drwxr-xr-x 1 User 197121 0 Nov 11 09:49 3.1111InheritanceEx/
+drwxr-xr-x 1 User 197121 0 Nov  3 09:52 311MethodExersice/
+drwxr-xr-x 1 User 197121 0 Nov  8 12:25 411ClassObjExercise/
+
+User@unknownDeviceWS MINGW64 /e/Java/Excerise
+$ cd 181118/
+
+User@unknownDeviceWS MINGW64 /e/Java/Excerise/181118
+$ ls
+181118.iml  src/
+
+User@unknownDeviceWS MINGW64 /e/Java/Excerise/181118
+$ ll
+total 1
+-rw-r--r-- 1 User 197121 437 Nov 18 09:24 181118.iml
+drwxr-xr-x 1 User 197121   0 Nov 22 13:45 src/
+
+User@unknownDeviceWS MINGW64 /e/Java/Excerise/181118
+$ cd src/
+
+User@unknownDeviceWS MINGW64 /e/Java/Excerise/181118/src (master)
+$ ls
+''$'\033''[ '  ''$'\033''[ .pub'   Main.java   main2.java
+
+User@unknownDeviceWS MINGW64 /e/Java/Excerise/181118/src (master)
+$ ll
+total 10
+-rw-r--r-- 1 User 197121 3326 Nov 22 13:45 ''$'\033''[ '
+-rw-r--r-- 1 User 197121  748 Nov 22 13:45 ''$'\033''[ .pub'
+-rw-r--r-- 1 User 197121  487 Nov 22 13:35  Main.java
+-rw-r--r-- 1 User 197121   11 Nov 22 13:36  main2.java
+
+User@unknownDeviceWS MINGW64 /e/Java/Excerise/181118/src (master)
+$ git show remote
+fatal: ambiguous argument 'remote': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+
+User@unknownDeviceWS MINGW64 /e/Java/Excerise/181118/src (master)
+$ ll
+total 10
+-rw-r--r-- 1 User 197121 3326 Nov 22 13:45 ''$'\033''[ '
+-rw-r--r-- 1 User 197121  748 Nov 22 13:45 ''$'\033''[ .pub'
+-rw-r--r-- 1 User 197121  487 Nov 22 13:35  Main.java
+-rw-r--r-- 1 User 197121   11 Nov 22 13:36  main2.java
+
+User@unknownDeviceWS MINGW64 /e/Java/Excerise/181118/src (master)
+$ ll -a
+total 14
+drwxr-xr-x 1 User 197121    0 Nov 22 13:45  ./
+drwxr-xr-x 1 User 197121    0 Nov 18 09:24  ../
+drwxr-xr-x 1 User 197121    0 Nov 22 13:39  .git/
+-rw-r--r-- 1 User 197121 3326 Nov 22 13:45 ''$'\033''[ '
+-rw-r--r-- 1 User 197121  748 Nov 22 13:45 ''$'\033''[ .pub'
+-rw-r--r-- 1 User 197121  487 Nov 22 13:35  Main.java
+-rw-r--r-- 1 User 197121   11 Nov 22 13:36  main2.java
+
+User@unknownDeviceWS MINGW64 /e/Java/Excerise/181118/src (master)
+$ rm ''$'\033''[ '
+
+User@unknownDeviceWS MINGW64 /e/Java/Excerise/181118/src (master)
+$ ll
+total 6
+-rw-r--r-- 1 User 197121 748 Nov 22 13:45 ''$'\033''[ .pub'
+-rw-r--r-- 1 User 197121 487 Nov 22 13:35  Main.java
+-rw-r--r-- 1 User 197121  11 Nov 22 13:36  main2.java
+
+User@unknownDeviceWS MINGW64 /e/Java/Excerise/181118/src (master)
+$ rm ''$'\033''[ .pub'
+
+User@unknownDeviceWS MINGW64 /e/Java/Excerise/181118/src (master)
+$ ls
+Main.java  main2.java
+
+User@unknownDeviceWS MINGW64 /e/Java/Excerise/181118/src (master)
+$ ll
+total 2
+-rw-r--r-- 1 User 197121 487 Nov 22 13:35 Main.java
+-rw-r--r-- 1 User 197121  11 Nov 22 13:36 main2.java
+
+User@unknownDeviceWS MINGW64 /e/Java/Excerise/181118/src (master)
+$ git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+nothing to commit, working tree clean
+
+User@unknownDeviceWS MINGW64 /e/Java/Excerise/181118/src (master)
+$ git remote show origin
+Username for 'https://gitlab.com': meng_hok
+* remote origin
+  Fetch URL: https://gitlab.com/meng_hok/exercise.git
+  Push  URL: https://gitlab.com/meng_hok/exercise.git
+  HEAD branch: master
+  Remote branch:
+    master tracked
+  Local branch configured for 'git pull':
+    master merges with remote master
+  Local ref configured for 'git push':
+    master pushes to master (up to date)
+
+User@unknownDeviceWS MINGW64 /e/Java/Excerise/181118/src (master)
+$ git remote add origin_ssh
+usage: git remote add [<options>] <name> <url>
+
+    -f, --fetch           fetch the remote branches
+    --tags                import all tags and associated objects when fetching
+                          or do not fetch any tag at all (--no-tags)
+    -t, --track <branch>  branch(es) to track
+    -m, --master <branch>
+                          master branch
+    --mirror[=(push|fetch)]
+                          set up remote as a mirror to push to or fetch from
+
+
+User@unknownDeviceWS MINGW64 /e/Java/Excerise/181118/src (master)
+$ git remote add origin_ssh git@gitlab.com:meng_hok/exercise.git
+
+User@unknownDeviceWS MINGW64 /e/Java/Excerise/181118/src (master)
+$ git remote show origin
+Username for 'https://gitlab.com':
+
+User@unknownDeviceWS MINGW64 /e/Java/Excerise/181118/src (master)
+$ git remote show
+origin
+origin_ssh
+
+User@unknownDeviceWS MINGW64 /e/Java/Excerise/181118/src (master)
+$ git push origin_ssh
+The authenticity of host 'gitlab.com (35.231.145.151)' can't be established.
+ECDSA key fingerprint is SHA256:HbW3g8zUjNSksFbqTiUWPWg2Bq1x8xdGUrliXFzSnUw.
+Are you sure you want to continue connecting (yes/no)? yes
+Warning: Permanently added 'gitlab.com,35.231.145.151' (ECDSA) to the list of known hosts.
+Enter passphrase for key '/c/Users/User/.ssh/id_rsa':
+Everything up-to-date
+
+User@unknownDeviceWS MINGW64 /e/Java/Excerise/181118/src (master)
+$ up to date
+bash: up: command not found
+
+User@unknownDeviceWS MINGW64 /e/Java/Excerise/181118/src (master)
+$ vim main.java
+
+User@unknownDeviceWS MINGW64 /e/Java/Excerise/181118/src (master)
+$ git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+        modified:   Main.java
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+User@unknownDeviceWS MINGW64 /e/Java/Excerise/181118/src (master)
+$ git add Main.java
+
+User@unknownDeviceWS MINGW64 /e/Java/Excerise/181118/src (master)
+$ git commit -m "theThirds"
+[master 87d545b] theThirds
+ 1 file changed, 3 insertions(+)
+
+User@unknownDeviceWS MINGW64 /e/Java/Excerise/181118/src (master)
+$ git push origin_ssh
+Enter passphrase for key '/c/Users/User/.ssh/id_rsa':
+Enumerating objects: 5, done.
+Counting objects: 100% (5/5), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 328 bytes | 328.00 KiB/s, done.
+Total 3 (delta 1), reused 0 (delta 0)
+To gitlab.com:meng_hok/exercise.git
+   0e95b29..87d545b  master -> master
+
+User@unknownDeviceWS MINGW64 /e/Java/Excerise/181118/src (master)
+$
+
+
+<=============================12/15/18  SISKH=====================>
+
+
+current DIr
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

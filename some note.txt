@@ -1,0 +1,45 @@
+https://www.youtube.com/watch?v=qSeTX8fFhxQ
+gitlab : meng_hok	sokmenghok
+
+==> init , origin ,add , remote -m , push
+git status	=> to check project wheather it is changed or not (before git push origin_ssh)
+git log => to check project history
+git push origin_ssh
+passphrase : 1234567890
+
+create lavarel by starting laragon -> teminal
+composer create-project --prefer-dist laravel/laravel blog 
+=> folderName.dev
+make model migrate
+make controler
+use Illuminate\Support\Facades\Schema;
+Schema::defaultStringLength(191);
+
+work board
+PeoplePerHour.com
+Codeable.io (for WordPress)
+TopTal.com (for WordPress)
+UpWork.com
+
+Web Design by photoshop 
+https://kat.sx/lynda-com-photoshop-for-web-design-tt7666740.html
+
+
+laragon teminal
+php artisan make:... --help
+	example:
+		php artisan make:controller Api/V1/CategoryController --model=Category (--resoure || -r )
+database Connection edit in .env file	
+
+URL => URI OR URN
+
+
+model 
+factory
+seeder 
+php artisan migrate
+php artisan migrate:rollback
+Associative array
+php artisan db:seeder
+
+092775549
